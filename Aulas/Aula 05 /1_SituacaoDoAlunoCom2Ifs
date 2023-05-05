@@ -1,0 +1,6 @@
+n = float(input('Digite sua nota final: '))
+if n >= 7:
+  print ('Aluno aprovado')
+if n < 7:
+  print ('Aluno reprovado')
+print ("Fim do programa independentemente do resultado")
